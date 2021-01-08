@@ -1,0 +1,9 @@
+
+.container{
+    width: 95%;
+    margin: 20px auto;
+}
+.heading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkgrey;
+}
